@@ -2,7 +2,7 @@
 Summary:	Protoshares Pool Miner
 Name:		ptsminer
 Version:	0.1
-Release:	0.%{snap}.1
+Release:	0.%{snap}.2
 License:	GPL v2
 Group:		Applications/Networking
 URL:		https://github.com/thbaumbach/ptsminer
