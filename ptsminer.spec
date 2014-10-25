@@ -1,8 +1,9 @@
 %define	snap	20131203
+%define	rel	3
 Summary:	Protoshares Pool Miner
 Name:		ptsminer
 Version:	0.1
-Release:	0.%{snap}.2
+Release:	0.%{snap}.%{rel}
 License:	GPL v2
 Group:		Applications/Networking
 URL:		https://github.com/thbaumbach/ptsminer
